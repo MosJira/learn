@@ -1,2 +1,1 @@
-option v.2
-ทำไมมีปํยหา
+Get started with Tailwind CSS
